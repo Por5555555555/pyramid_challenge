@@ -1,0 +1,1 @@
+/home/suomi/Documents/test/V1\ Full\ version/target/debug/helloRust: /home/suomi/Documents/test/V1\ Full\ version/src/color_func.rs /home/suomi/Documents/test/V1\ Full\ version/src/func_show.rs /home/suomi/Documents/test/V1\ Full\ version/src/input_number.rs /home/suomi/Documents/test/V1\ Full\ version/src/main.rs
